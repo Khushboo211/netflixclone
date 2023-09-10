@@ -1,2 +1,2 @@
-# netflixclone
-netflix homepage clone
+# netflixhomepage
+netflix homepage 
